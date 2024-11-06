@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u7531\u7559\u90E8\u745B\u4EBA\\Documents\\GitHub\\JUMPMANADVENTURE-\\2DGame\\JUMPMANADVENTURE\u200B\\",
+  "WorkspaceRootPath": "C:\\Users\\\u7531\u7559\u90E8\u745B\u4EBA\\Documents\\GitHub\\JUMPMANADVENTURE-\\MyGame\\JUMPMANADVENTURE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79853677-DFA6-490D-9A53-4EF2582D98D2}|JUMPMANADVENTURE\u200B\\JUMPMANADVENTURE\u200B.vcxproj|C:\\Users\\\u7531\u7559\u90E8\u745B\u4EBA\\Documents\\GitHub\\JUMPMANADVENTURE-\\2DGame\\JUMPMANADVENTURE\u200B\\JUMPMANADVENTURE\u200B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{79853677-DFA6-490D-9A53-4EF2582D98D2}|JUMPMANADVENTURE\u200B\\JUMPMANADVENTURE\u200B.vcxproj|C:\\Users\\\u7531\u7559\u90E8\u745B\u4EBA\\Documents\\GitHub\\JUMPMANADVENTURE-\\MyGame\\JUMPMANADVENTURE\\JUMPMANADVENTURE\u200B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{79853677-DFA6-490D-9A53-4EF2582D98D2}|JUMPMANADVENTURE\u200B\\JUMPMANADVENTURE\u200B.vcxproj|solutionrelative:JUMPMANADVENTURE\u200B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\u7531\u7559\u90E8\u745B\u4EBA\\Documents\\GitHub\\JUMPMANADVENTURE-\\2DGame\\JUMPMANADVENTURE\u200B\\JUMPMANADVENTURE\u200B\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u7531\u7559\u90E8\u745B\u4EBA\\Documents\\GitHub\\JUMPMANADVENTURE-\\MyGame\\JUMPMANADVENTURE\\JUMPMANADVENTURE\u200B\\main.cpp",
               "RelativeDocumentMoniker": "JUMPMANADVENTURE\u200B\\main.cpp",
-              "ToolTip": "C:\\Users\\\u7531\u7559\u90E8\u745B\u4EBA\\Documents\\GitHub\\JUMPMANADVENTURE-\\2DGame\\JUMPMANADVENTURE\u200B\\JUMPMANADVENTURE\u200B\\main.cpp",
+              "ToolTip": "C:\\Users\\\u7531\u7559\u90E8\u745B\u4EBA\\Documents\\GitHub\\JUMPMANADVENTURE-\\MyGame\\JUMPMANADVENTURE\\JUMPMANADVENTURE\u200B\\main.cpp",
               "RelativeToolTip": "JUMPMANADVENTURE\u200B\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
